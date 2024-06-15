@@ -6,18 +6,18 @@
 ☆ ⚡ Fun fact: 🐈‍⬛ are amazing! <br/>
 
 <p align="center">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg"> 
+  <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg">
+  <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg">
+  <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg">
+  <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
+  <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg">
+  <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg">
+  <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg"> 
     <br/>
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular3.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg">
+  <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg">
+  <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg">
+  <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular3.svg">
+  <img height="25px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg">
 </p>
 
 <hr>
