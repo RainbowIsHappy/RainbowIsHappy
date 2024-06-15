@@ -2,7 +2,7 @@
 
 ☆ 👀 I’m interested in working with you. <br/>
 ☆ 🌱 I’m currently learning Front-end developing<br/>
-☆ 📫 How to reach me: <a href="portfolio-green-mu-25.vercel.app">My Portfolio<a><br/>
+☆ 📫 How to reach me: <a href="https://portfolio-green-mu-25.vercel.app">My Portfolio<a><br/>
 ☆ ⚡ Fun fact: 🐈‍⬛ are amazing! <br/>
 
 <p align="center">
