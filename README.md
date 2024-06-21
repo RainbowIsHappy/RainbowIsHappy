@@ -40,14 +40,17 @@
         <a href="https://github.com/RainbowIsHappy/psychologist_app-project">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RainbowIsHappy&repo=psychologist_app-project&theme=material-palenight&card_width=320" />
         </a>
-        <a href="https://github.com/RainbowIsHappy/parcel_room-project">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RainbowIsHappy&repo=parcel_room-project&theme=material-palenight&card_width=320" />
+        <a href="https://github.com/RainbowIsHappy/portfolio">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RainbowIsHappy&repo=portfolio&theme=material-palenight&card_width=320" />
         </a>
       </p>
       <p align="center">
-        <a href="https://github.com/RainbowIsHappy/portfolio">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RainbowIsHappy&repo=portfolio&theme=material-palenight&card_width=320" />
-        </aฬ
+        <a href="https://github.com/RainbowIsHappy/parcel_room-project">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RainbowIsHappy&repo=parcel_room-project&theme=material-palenight&card_width=320" />
+        </a>
+        <a href="https://github.com/RainbowIsHappy/shopping-app">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RainbowIsHappy&repo=shopping-app&theme=material-palenight&card_width=320" />
+        </a>
       </p>
   </details>
 </hr>
