@@ -48,9 +48,9 @@
         <a href="https://github.com/RainbowIsHappy/parcel_room-project">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RainbowIsHappy&repo=parcel_room-project&theme=material-palenight&card_width=320" />
         </a>
-        <a href="https://github.com/RainbowIsHappy/shopping-app">
+        <!-- <a href="https://github.com/RainbowIsHappy/shopping-app">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RainbowIsHappy&repo=shopping-app&theme=material-palenight&card_width=320" />
-        </a>
+        </a> -->
       </p>
   </details>
 </hr>
